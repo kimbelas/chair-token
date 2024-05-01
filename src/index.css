@@ -4,7 +4,7 @@
 html, body {
   overflow-x: hidden;
   margin: 0;
-  font-family: 'Zapfino', cursive;
+  font-family: 'Zapfino', sans-serif;
   background: linear-gradient(to top, #fff 50%, #ffbe46);
 }
 
